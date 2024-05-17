@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      "react-native-material-dialog@0.7.4",
+      "/home/client/Android/ReactiveNative/worx/gsba_billion/gsba"
+    ]
+  ],
+  "_from": "react-native-material-dialog@0.7.4",
+  "_id": "react-native-material-dialog@0.7.4",
+  "_inBundle": false,
+  "_integrity": "sha512-4WD2+oXEhRFRA3B8syHPNwzP8G/zFE6Qw/hLfkZziitW0HIGY4/d4aLq+S1SnVW4voNvzRRnRUrbX8xTH+JVxQ==",
+  "_location": "/react-native-material-dialog",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-material-dialog@0.7.4",
+    "name": "react-native-material-dialog",
+    "escapedName": "react-native-material-dialog",
+    "rawSpec": "0.7.4",
+    "saveSpec": null,
+    "fetchSpec": "0.7.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-material-dialog/-/react-native-material-dialog-0.7.4.tgz",
+  "_spec": "0.7.4",
+  "_where": "/home/client/Android/ReactiveNative/worx/gsba_billion/gsba",
+  "author": {
+    "name": "hectahertz",
+    "email": "hectahertz@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/hectahertz/react-native-material-dialog/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native-typography": "^1.0.3",
+    "react-native-vector-icons": "^4.2.0"
+  },
+  "description": "Material design compliant dialog for React Native",
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0",
+    "eslint-plugin-react-native": "^2.2.1"
+  },
+  "homepage": "https://github.com/hectahertz/react-native-material-dialog#readme",
+  "keywords": [
+    "react-native",
+    "react",
+    "material",
+    "material-design",
+    "dialog",
+    "pop-up",
+    "popup",
+    "modal"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-material-dialog",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectahertz/react-native-material-dialog.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "index.d.ts",
+  "version": "0.7.4"
+}

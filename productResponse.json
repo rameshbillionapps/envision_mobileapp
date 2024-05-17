@@ -1,0 +1,291 @@
+[
+{
+"company": "BNO",
+"parentSku": "10003",
+"descriptionShort": " UNIVERSAL TRAY",
+"descriptionLong": "UNIVERSAL TRAY",
+"descripionFullText": "COSMETIC ORGANIZER",
+"sbuId": "BNO",
+"commodity": "VAO",
+"prodLine": "B   ",
+"genderId": "U",
+"supplierNum": null,
+"itemClass": "BATH",
+"invnetoryType": "S",
+"itemGroupId": "GEN",
+"category": null,
+"material": "PS   ",
+"materialDescription": "100% PS",
+"colorDescription": "CLEAR",
+"dimensions": {
+"carton": {
+"length": 0,
+"width": 0,
+"height": 0,
+"Length": 16.2,
+"Width": 9
+},
+"piece": {
+"length": 0,
+"width": 0,
+"height": 0,
+"Length": 12.75,
+"Width": 8.5
+},
+"weight": {
+"carton": 11,
+"piece": 1.8330000000000002
+}
+},
+"pack": {
+"masterPack": 6,
+"innerPack1": 1,
+"innerPack2": null
+},
+"totalAvailToSell": 807,
+"totalAvailNow": 3,
+"variants": [
+{
+"sku": "10003-CLR",
+"color": "CLR            ",
+"size": "        ",
+"custNum": "Z9999   ",
+"parentUpcNum": "841179101132",
+"status": "A",
+"price": {
+"sellPrice": 6.5,
+"retailPrice": 13
+},
+"retailerCommodity": "PSC",
+"finiteInventory": "N",
+"imageLocation": "https://envision.coreforce.com/BinoImages/10003CLR.JPG",
+"availability": [
+{
+"warehouseId": "ALW",
+"availNow": 3,
+"availToSell": 807
+}
+]
+},
+{
+"sku": "10003-CLR-B2BU",
+"color": "CLR            ",
+"size": "        ",
+"custNum": "BCF010  ",
+"parentUpcNum": "841179101132",
+"status": "A",
+"price": {
+"sellPrice": 6.5,
+"retailPrice": 13
+},
+"retailerCommodity": "PSC",
+"finiteInventory": "N",
+"imageLocation": "https://envision.coreforce.com/BinoImages/10003CLR.JPG",
+"availability": [
+{
+"warehouseId": "ALW",
+"availNow": 0,
+"availToSell": 0
+}
+]
+},
+{
+"sku": "10003-CLR-E",
+"color": "CLR            ",
+"size": "        ",
+"custNum": "Z9999   ",
+"parentUpcNum": "841179101132",
+"status": "A",
+"price": {
+"sellPrice": 6.5,
+"retailPrice": 13
+},
+"retailerCommodity": "PSC",
+"finiteInventory": "N",
+"imageLocation": "https://envision.coreforce.com/BinoImages/10003CLR.JPG",
+"availability": [
+{
+"warehouseId": "ALW",
+"availNow": 186,
+"availToSell": 186
+},
+{
+"warehouseId": "FON",
+"availNow": 0,
+"availToSell": 0
+}
+]
+},
+{
+"sku": "10003-CLR-EBU",
+"color": "CLR            ",
+"size": "        ",
+"custNum": "LXL001  ",
+"parentUpcNum": null,
+"status": "I",
+"price": {
+"sellPrice": 6.5,
+"retailPrice": 13
+},
+"retailerCommodity": "PSC",
+"finiteInventory": "N",
+"imageLocation": "https://envision.coreforce.com/BinoImages/10003CLR.JPG",
+"availability": [
+
+]
+},
+{
+"sku": "10003-CLR-EDDP2",
+"color": "CLR            ",
+"size": "        ",
+"custNum": "DDS001  ",
+"parentUpcNum": null,
+"status": "A",
+"price": {
+"sellPrice": 6.5,
+"retailPrice": 13
+},
+"retailerCommodity": "PSC",
+"finiteInventory": "N",
+"imageLocation": "https://envision.coreforce.com/BinoImages/10003CLREDDP2.JPG",
+"availability": [
+{
+"warehouseId": "ALW",
+"availNow": 0,
+"availToSell": 0
+},
+{
+"warehouseId": "FON",
+"availNow": 0,
+"availToSell": 0
+}
+]
+},
+{
+"sku": "10003-CLR-EP1",
+"color": "CLR            ",
+"size": "        ",
+"custNum": "Z9999   ",
+"parentUpcNum": null,
+"status": "A",
+"price": {
+"sellPrice": 6.5,
+"retailPrice": 13
+},
+"retailerCommodity": "PSC",
+"finiteInventory": "N",
+"imageLocation": "https://envision.coreforce.com/BinoImages/10003CLR.JPG",
+"availability": [
+{
+"warehouseId": "ALW",
+"availNow": 0,
+"availToSell": 0
+}
+]
+},
+{
+"sku": "10003-CLR-ERO-L",
+"color": "CLR            ",
+"size": "        ",
+"custNum": "ROT001  ",
+"parentUpcNum": null,
+"status": "A",
+"price": {
+"sellPrice": 6.5,
+"retailPrice": 13
+},
+"retailerCommodity": "PSC",
+"finiteInventory": "N",
+"imageLocation": "https://envision.coreforce.com/BinoImages/10003CLR.JPG",
+"availability": [
+{
+"warehouseId": "ALW",
+"availNow": 0,
+"availToSell": 0
+}
+]
+},
+{
+"sku": "10003-CLR-EROP1",
+"color": "CLR            ",
+"size": "        ",
+"custNum": "ROS001  ",
+"parentUpcNum": null,
+"status": "A",
+"price": {
+"sellPrice": 6.5,
+"retailPrice": 13
+},
+"retailerCommodity": "PSC",
+"finiteInventory": "N",
+"imageLocation": "https://envision.coreforce.com/BinoImages/10003CLREROP1.JPG",
+"availability": [
+{
+"warehouseId": "ALW",
+"availNow": 0,
+"availToSell": 0
+},
+{
+"warehouseId": "DIR",
+"availNow": 0,
+"availToSell": 0
+},
+{
+"warehouseId": "LA ",
+"availNow": 0,
+"availToSell": 0
+}
+]
+},
+{
+"sku": "10003-CLR-EROP2",
+"color": "CLR            ",
+"size": "        ",
+"custNum": "ROS001  ",
+"parentUpcNum": null,
+"status": "A",
+"price": {
+"sellPrice": 6.5,
+"retailPrice": 13
+},
+"retailerCommodity": "PSC",
+"finiteInventory": "N",
+"imageLocation": "https://envision.coreforce.com/BinoImages/10003CLREROP2.JPG",
+"availability": [
+{
+"warehouseId": "ALW",
+"availNow": 0,
+"availToSell": 0
+}
+]
+},
+{
+"sku": "10003-CLR-FE",
+"color": "CLR            ",
+"size": "        ",
+"custNum": "FRE001  ",
+"parentUpcNum": null,
+"status": "A",
+"price": {
+"sellPrice": 6.5,
+"retailPrice": 13
+},
+"retailerCommodity": "PSC",
+"finiteInventory": "N",
+"imageLocation": "https://envision.coreforce.com/BinoImages/10003CLR.JPG",
+"availability": [
+{
+"warehouseId": "ALW",
+"availNow": 0,
+"availToSell": 0
+},
+{
+"warehouseId": "DIR",
+"availNow": 0,
+"availToSell": 0
+}
+]
+}
+]
+}
+]
